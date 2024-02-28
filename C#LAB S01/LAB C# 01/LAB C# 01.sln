@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB C# 01", "LAB C# 01.csproj", "{D2F114E4-5CEB-4E9A-B0FC-950CF34A0703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB C# 02", "..\..\LAB C# 02\LAB C# 02.csproj", "{0FCFB753-13E6-4C2A-AA92-E2783EF72DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB C# 03", "..\..\LAB C# 03\LAB C# 03.csproj", "{FA132FB1-69D8-42AF-AF08-906CD22F369C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F114E4-5CEB-4E9A-B0FC-950CF34A0703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F114E4-5CEB-4E9A-B0FC-950CF34A0703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F114E4-5CEB-4E9A-B0FC-950CF34A0703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F114E4-5CEB-4E9A-B0FC-950CF34A0703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCFB753-13E6-4C2A-AA92-E2783EF72DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCFB753-13E6-4C2A-AA92-E2783EF72DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCFB753-13E6-4C2A-AA92-E2783EF72DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCFB753-13E6-4C2A-AA92-E2783EF72DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA132FB1-69D8-42AF-AF08-906CD22F369C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA132FB1-69D8-42AF-AF08-906CD22F369C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA132FB1-69D8-42AF-AF08-906CD22F369C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA132FB1-69D8-42AF-AF08-906CD22F369C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B468A144-FDEA-495B-BFA0-75679B8BE975}
+	EndGlobalSection
+EndGlobal

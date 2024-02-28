@@ -1,0 +1,2 @@
+F:\Sehansi\C# third sem\C# Lab sec 01\C#lab sheet01\C#LAB S01\LAB C# 01\obj\Debug\LAB C# 01.csproj.AssemblyReference.cache
+F:\Sehansi\C# third sem\C# Lab sec 01\C#lab sheet01\C#LAB S01\LAB C# 01\obj\Debug\LAB C# 01.csproj.CoreCompileInputs.cache
