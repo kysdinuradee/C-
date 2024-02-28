@@ -1,0 +1,7 @@
+F:\Sehansi\C# LAB S2\C# LAB S2 Q1\bin\Debug\C# LAB S2 Q1.exe.config
+F:\Sehansi\C# LAB S2\C# LAB S2 Q1\bin\Debug\C# LAB S2 Q1.exe
+F:\Sehansi\C# LAB S2\C# LAB S2 Q1\bin\Debug\C# LAB S2 Q1.pdb
+F:\Sehansi\C# LAB S2\C# LAB S2 Q1\obj\Debug\C# LAB S2 Q1.csproj.AssemblyReference.cache
+F:\Sehansi\C# LAB S2\C# LAB S2 Q1\obj\Debug\C# LAB S2 Q1.csproj.CoreCompileInputs.cache
+F:\Sehansi\C# LAB S2\C# LAB S2 Q1\obj\Debug\C# LAB S2 Q1.exe
+F:\Sehansi\C# LAB S2\C# LAB S2 Q1\obj\Debug\C# LAB S2 Q1.pdb
